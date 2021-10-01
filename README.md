@@ -21,19 +21,21 @@
     <img alt="MySQL" style="margin-right: 10px;"
          src="https://img.shields.io/badge/MySQL-00000F?logo=MySQL&logoColor=white&style=flat-square">
 
-  <h4> Frameworks | Libraries | Tools </h5>
+  <h4> Frameworks | Libraries </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square"> 
     <img alt="jQuery" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square">
     <img alt="Spring" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square">
-    <img alt="ApacheMaven" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/ApacheMaven-00000F?logo=apache&logoColor=white&style=flat-square">
-     <img alt="Jasmine" style="margin-right: 10px;"
+    <img alt="Jasmine" style="margin-right: 10px;"
           src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=flat-square">
-     <img alt="jUnit" style="margin-right: 10px;"
+    <img alt="jUnit" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
+         
+  <h4> Tools </h5>
+     <img alt="ApacheMaven" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/ApacheMaven-00000F?logo=apache&logoColor=white&style=flat-square">
 </span>
 
 <br>
