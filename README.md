@@ -16,6 +16,7 @@
        src="https://img.shields.io/badge/-JavaScript-363636?logo=javascript&style=for-the-badge">
   <img alt="jQuery" style="margin-right: 10px;"
        src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge">
+  <h5> Back-end <h5>
  <img alt="Java" style="margin-right: 10px;"
        src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"> 
     <img alt="Spring" style="margin-right: 10px;"
