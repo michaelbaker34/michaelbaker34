@@ -7,15 +7,16 @@
 
 <h3> Experienced with: </h3>
 <span>
+  <img alt="JavaScript" style="margin-right: 10px;"
+       src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge&logoColor=363636" />
+</span>
+
+<span>
   <img alt="JavaScript" style="" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
   <img alt="jSON" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" />
   <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
   <img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
   <img alt="" src=""/>
-</span>
-<span>
-  <img alt="JavaScript" style="margin-right: 10px;"
-       src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge" />
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34)](https://github.com/anuraghazra/github-readme-stats)
