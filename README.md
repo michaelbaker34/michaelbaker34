@@ -8,7 +8,7 @@
 <h3> Experience: </h3>
 <span>
   <img alt="HTML" style="margin-right: 10px;"
-       src="https://img.shields.io/badge/-HTML?logo=html&style=for-the-badge">
+       src="https://img.shields.io/badge/-HTML?logo=html5&style=for-the-badge">
   <img alt="CSS" style="margin-right: 10px;"
        src="https://img.shields.io/badge/">
   <img alt="JavaScript" style="margin-right: 10px;"
