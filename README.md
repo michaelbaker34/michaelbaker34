@@ -17,7 +17,7 @@
     <img alt="JavaScript" style="margin-right: 10px;"
          src="https://img.shields.io/badge/JavaScript-363636?logo=javascript&style=flat-square">
     <img alt="Java" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square">
+         src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
 
   <h4> Frameworks | Libraries | Tools </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
