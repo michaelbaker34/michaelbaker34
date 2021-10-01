@@ -5,9 +5,9 @@
 -->
 
 <p>
-I’m currently working on <a href="https://github.com/michaelbaker34/SimpleDungeonCrawler">Simple Dungeon Crawler</a>
+- I’m currently working on <a href="https://github.com/michaelbaker34/SimpleDungeonCrawler">Simple Dungeon Crawler</a>
 <br>
-I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
+- I’m currently learning <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction">.Net Core</a>
 </p>
 
 <span>
