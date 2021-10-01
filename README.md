@@ -45,5 +45,5 @@
 <!-- Most Used Languages Banner -->
 <span>
   <img alt="michaelbaker34"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=github_dark&layout=compact"/>
 </span>
