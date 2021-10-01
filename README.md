@@ -37,6 +37,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs username=michaelbaker3
 <br>
 <span>
   <img align="center"  alt="michaelbaker34"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-black&layout=compact"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"
        />
 </span>
