@@ -23,6 +23,8 @@
          src="https://img.shields.io/badge/JavaScript-363636?logo=javascript&style=flat-square">
     <img alt="Java" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
+    <img alt="C#" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/C#?logo=csharp&logoColor=white&style=flat-square">
 
   <h5> Frameworks | Libraries </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
