@@ -2,7 +2,6 @@
 <img alt="" style="margin-right: 10px;"
          src="https://img.shields.io/badge/?logo=&logoColor=white&style=for-the-badge">
 
-src="https://github-readme-stats.vercel.app/api/top-langs username=michaelbaker34&show_icons=true&locale=en&layout=compact"
 -->
 
 - 🔭 I’m currently working on [Simple Dungeon Crawler](https://github.com/michaelbaker34/SimpleDungeonCrawler)
@@ -34,9 +33,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs username=michaelbaker3
      <img alt="jUnit" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=for-the-badge">
 </span>
-<br>
+
 <span>
   <img align="center"  alt="michaelbaker34"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"
-       />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"/>
 </span>
