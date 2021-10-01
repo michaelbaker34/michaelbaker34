@@ -31,8 +31,6 @@
          src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square">
     <img alt="Spring" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square">
-    <img alt="MySQL" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=flat-square">
     <img alt="Jasmine" style="margin-right: 10px;"
           src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=flat-square">
     <img alt="jUnit" style="margin-right: 10px;"
@@ -41,6 +39,8 @@
   <h5> Tools </h5>
     <img alt="Git" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white&style=flat-square">
+    <img alt="MySQL" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=flat-square">
     <img alt="Apache" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Apache-00000F?logo=apache&logoColor=white&style=flat-square">
     <img alt="Gradle" style="margin-right: 10px;"
