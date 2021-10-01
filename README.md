@@ -10,6 +10,8 @@
 - I’m currently learning <a href="https://docs.microsoft.com/en-us/dotnet/core/introduction">.Net Core</a>
 </p>
 
+---
+
 <span>
   <h4> Languages </h4>
     <img alt="HTML" style="margin-right: 10px;"
