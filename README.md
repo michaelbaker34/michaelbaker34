@@ -30,7 +30,7 @@
      <img alt="Jasmine" style="margin-right: 10px;"
           src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge">
      <img alt="jUnit" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/jUnit-25a162?logo=junit&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=for-the-badge">
 </span>
 <br>
 <span>
