@@ -8,8 +8,8 @@
 <h3> Experienced with: </h3>
 <span>
   <img alt="JavaScript" style="" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
-  <img alt="" style="" src="  https://www.vectorlogo.zone/logos/json/json-ar21.svg"/>
-  <img alt="Java" style="" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
+  <img alt="jSON" style="" src="  https://www.vectorlogo.zone/logos/json/json-ar21.svg"/>
+  <img alt="Java" style="" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
   <img alt="" style="" src=""/>
   <img alt="" style="" src=""/>
   <img alt="" style="" src=""/>
