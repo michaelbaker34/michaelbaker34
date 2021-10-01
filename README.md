@@ -1,6 +1,6 @@
 <!--
 <img alt="" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/?logo=&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/?logo=&logoColor=white&style=flat-square">
 
 -->
 
@@ -23,15 +23,15 @@
 
   <h5> Back-end </h5>
     <img alt="Java" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square">
     <img alt="Spring" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square">
           
   <h5> Testing </h5>
      <img alt="Jasmine" style="margin-right: 10px;"
-          src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=for-the-badge">
+          src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=flat-square">
      <img alt="jUnit" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
 </span>
 <br>
 <span>
