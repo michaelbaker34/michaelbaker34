@@ -1,5 +1,5 @@
 <!--
-<img alt="" style="margin-right: 10px;"
+    <img alt="" style="margin-right: 10px;"
          src="https://img.shields.io/badge/?logo=&logoColor=white&style=flat-square">
 
 -->
@@ -36,6 +36,8 @@
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
          
   <h4> Tools </h5>
+    <img alt="Git" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white&style=flat-square">
     <img alt="Apache" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Apache-00000F?logo=apache&logoColor=white&style=flat-square">
     <img alt="Gradle" style="margin-right: 10px;"
