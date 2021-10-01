@@ -12,7 +12,10 @@
   <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
   <img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
   <img alt="" src=""/>
-
+</span>
+<span>
+  <img alt="JavaScript" style="margin-right: 10px;"
+       src="https://img.shields.io/badge/javascript-white?logo=javascript" />
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34)](https://github.com/anuraghazra/github-readme-stats)
