@@ -31,7 +31,9 @@
      <img alt="jUnit" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
 </span>
+
 <br>
+
 <span>
   <img alt="michaelbaker34"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"/>
