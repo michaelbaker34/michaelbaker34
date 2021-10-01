@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Simple Dungeon Crawler](https://github.com/michaelbaker34/SimpleDungeonCrawler)
 - 🌱 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 
-<span>
+
   <h2> Experience: </h2>
 ---
   <h4> Languages </h4>
@@ -41,7 +41,7 @@
          src="https://img.shields.io/badge/Apache-00000F?logo=apache&logoColor=white&style=flat-square">
     <img alt="Gradle" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Gradle-033c49?logo=gradle&logoColor=white&style=flat-square">
-</span>
+
 
 <br>
 
