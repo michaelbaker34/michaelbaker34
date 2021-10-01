@@ -13,8 +13,8 @@
 ---
 
 <span>
-  <h3> Experience </h2>
-  <h4> Languages </h4>
+  <h3> Experience: </h2>
+  <h5> Languages </h5>
     <img alt="HTML" style="margin-right: 10px;"
          src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
     <img alt="CSS" style="margin-right: 10px;"
@@ -24,7 +24,7 @@
     <img alt="Java" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
 
-  <h4> Frameworks | Libraries </h5>
+  <h5> Frameworks | Libraries </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square">
     <img alt="jQuery" style="margin-right: 10px;"
@@ -38,7 +38,7 @@
     <img alt="jUnit" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
          
-  <h4> Tools </h5>
+  <h5> Tools </h5>
     <img alt="Git" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Git-f14e32?logo=git&logoColor=white&style=flat-square">
     <img alt="Apache" style="margin-right: 10px;"
