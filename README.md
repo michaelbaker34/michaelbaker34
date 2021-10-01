@@ -13,7 +13,7 @@
 ---
 
 <span>
-  <h2> Experience </h2>
+  <h3> Experience </h2>
   <h4> Languages </h4>
     <img alt="HTML" style="margin-right: 10px;"
          src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
