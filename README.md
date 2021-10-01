@@ -26,6 +26,8 @@
          src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square">
     <img alt="Spring" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square">
+         <img alt="Maven" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/Maven-?logo=maven&logoColor=white&style=flat-square">
      <img alt="Jasmine" style="margin-right: 10px;"
           src="https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=white&style=flat-square">
      <img alt="jUnit" style="margin-right: 10px;"
