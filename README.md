@@ -34,12 +34,15 @@
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
          
   <h4> Tools </h5>
-     <img alt="Apache" style="margin-right: 10px;"
+    <img alt="Apache" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Apache-00000F?logo=apache&logoColor=white&style=flat-square">
+    <img alt="Gradle" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/Gradle-033c49?logo=gradle&logoColor=white&style=flat-square">
 </span>
 
 <br>
 
+<!-- Most Used Languages Banner -->
 <span>
   <img alt="michaelbaker34"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=blue-green&layout=compact"/>
