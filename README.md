@@ -15,7 +15,7 @@
 </span>
 <span>
   <img alt="JavaScript" style="margin-right: 10px;"
-       src="https://img.shields.io/badge/javascript-white?logo=javascript" />
+       src="https://img.shields.io/badge/javascript-white?logo=javascript&logoColor=white&style=flat" />
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34)](https://github.com/anuraghazra/github-readme-stats)
