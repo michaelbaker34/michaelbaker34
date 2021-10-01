@@ -24,7 +24,7 @@
     <img alt="Java" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
     <img alt="C#" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/C%23-2196F3?logo=c-sharp&logoColor=F7BA00&style=flat-square">
+         src="https://img.shields.io/badge/C%23-0845FF?logo=c-sharp&logoColor=white&style=flat-square">
 
   <h5> Frameworks | Libraries </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
