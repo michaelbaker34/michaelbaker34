@@ -16,7 +16,7 @@
   <img alt="jQuery" style="margin-right: 10px;"
        src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge">
  <img alt="Java" style="margin-right: 10px;"
-       src="https://img.shields.io/badge/Java-993300?logo=java&logoColor=white&style=for-the-badge"> 
+       src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge"> 
     <img alt="Spring" style="margin-right: 10px;"
        src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge">
 </span>
