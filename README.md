@@ -19,8 +19,8 @@
          src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
     <img alt="CSS" style="margin-right: 10px;"
          src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square">
-    <img alt="JavaScript" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/JavaScript-363636?logo=javascript&style=flat-square">
+    <img alt="Javascript" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/Javascript-363636?logo=javascript&style=flat-square">
     <img alt="Java" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
     <img alt="C#" style="margin-right: 10px;"
