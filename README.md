@@ -7,8 +7,16 @@
 
 <h3> Experience: </h3>
 <span>
+  <img alt="HTML" style="margin-right: 10px;"
+       src="https://img.shields.io/badge/-HTML?logo=html&style=for-the-badge">
+  <img alt="CSS" style="margin-right: 10px;"
+       src="https://img.shields.io/badge/">
   <img alt="JavaScript" style="margin-right: 10px;"
        src="https://img.shields.io/badge/-JavaScript-363636?logo=javascript&style=for-the-badge" />
+  <img alt="jSON" style="margin-right: 10px;"
+       src="">
+    <img alt="" style="margin-right: 10px;"
+       src="">
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34)](https://github.com/anuraghazra/github-readme-stats)
