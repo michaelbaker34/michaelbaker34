@@ -9,8 +9,7 @@
 
 
 <h2> Experience
----
-#### Languages 
+<h4> Languages 
     <img alt="HTML" style="margin-right: 10px;"
          src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
     <img alt="CSS" style="margin-right: 10px;"
