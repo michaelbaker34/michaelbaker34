@@ -4,12 +4,12 @@
 
 -->
 
-- 🔭 I’m currently working on [Simple Dungeon Crawler](https://github.com/michaelbaker34/SimpleDungeonCrawler)
-- 🌱 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
+I’m currently working on [Simple Dungeon Crawler](https://github.com/michaelbaker34/SimpleDungeonCrawler)
+I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 
 <span>
-<h2> Experience </h2>
-<h4> Languages </h4>
+  <h2> Experience </h2>
+  <h4> Languages </h4>
     <img alt="HTML" style="margin-right: 10px;"
          src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
     <img alt="CSS" style="margin-right: 10px;"
@@ -45,7 +45,7 @@
 <br>
 
 ---
-<!-- Most Used Languages Banner -->
+
 <span>
   <img alt="michaelbaker34"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34&theme=github_dark&layout=compact"/>
