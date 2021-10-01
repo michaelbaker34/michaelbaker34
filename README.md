@@ -4,8 +4,11 @@
 
 -->
 
+<p>
 I’m currently working on [Simple Dungeon Crawler](https://github.com/michaelbaker34/SimpleDungeonCrawler)
+<br>
 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
+</p>
 
 <span>
   <h2> Experience </h2>
