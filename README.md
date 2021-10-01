@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 
 
-## Experience
+<h2> Experience
 ---
 #### Languages 
     <img alt="HTML" style="margin-right: 10px;"
