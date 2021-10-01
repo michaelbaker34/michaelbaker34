@@ -8,14 +8,11 @@
 <h3> Experienced with: </h3>
 <span>
   <img alt="JavaScript" style="" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
-  <img alt="jSON" style="" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" />
-  <img alt="Java" style="" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
-  <img alt="" style="" src=""/>
-  <img alt="" style="" src=""/>
-  <img alt="" style="" src=""/>
-  <img alt="" style="" src=""/>
-  <img alt="" style="" src=""/>
-  <img alt="" style="" src=""/>
+  <img alt="jSON" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" />
+  <img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
+  <img alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/>
+  <img alt="" src=""/>
+
 </span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34)](https://github.com/anuraghazra/github-readme-stats)
