@@ -34,8 +34,8 @@
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
          
   <h4> Tools </h5>
-     <img alt="ApacheMaven" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/ApacheMaven-00000F?logo=apache&logoColor=white&style=flat-square">
+     <img alt="Apache" style="margin-right: 10px;"
+         src="https://img.shields.io/badge/Apache-00000F?logo=apache&logoColor=white&style=flat-square">
 </span>
 
 <br>
