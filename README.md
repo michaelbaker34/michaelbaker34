@@ -19,7 +19,7 @@
     <img alt="Java" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Java-ED872D?logo=java&logoColor=white&style=flat-square">
     <img alt="MySQL" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/MySQL-00000F?logo=MySQL&logoColor=white&style=flat-square">
+         src="https://img.shields.io/badge/MySQL-4479a1?logo=MySQL&logoColor=white&style=flat-square">
 
   <h4> Frameworks | Libraries </h5>
     <img alt="BootStrap" style="margin-right: 10px;"
