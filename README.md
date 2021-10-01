@@ -11,15 +11,15 @@
   <h3> Experience: </h3>
   <h5> Front-end </h5>
     <img alt="HTML" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square">
     <img alt="CSS" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square">
     <img alt="BootStrap" style="margin-right: 10px;"
          src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square"> 
     <img alt="JavaScript" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/JavaScript-363636?logo=javascript&style=for-the-badge">
+         src="https://img.shields.io/badge/JavaScript-363636?logo=javascript&style=flat-square">
     <img alt="jQuery" style="margin-right: 10px;"
-         src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge">
+         src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square">
 
   <h5> Back-end </h5>
     <img alt="Java" style="margin-right: 10px;"
