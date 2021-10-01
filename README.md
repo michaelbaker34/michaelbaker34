@@ -8,7 +8,7 @@
 <h3> Experienced with: </h3>
 <span>
   <img alt="JavaScript" style="margin-right: 10px;"
-       src="https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=for-the-badge&logoColor=363636" />
+       src="https://img.shields.io/badge/-JavaScript-363636?logo=javascript&style=for-the-badge" />
 </span>
 
 <span>
