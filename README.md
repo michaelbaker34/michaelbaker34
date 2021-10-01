@@ -19,6 +19,6 @@
        src="">
 </span>
 
-<p>
-[https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbaker34](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelbaker34&show_icons=true&locale=en&layout=compact" alt="Michael" />
+</span>
