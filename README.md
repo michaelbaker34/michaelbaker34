@@ -38,7 +38,7 @@
     <img alt="jUnit" style="margin-right: 10px;"
          src="https://img.shields.io/badge/jUnit-25a162?logo=junit5&logoColor=white&style=flat-square">
          
-  <h5> Tools </h5>
+  <h5> Tools | Services</h5>
     <img alt="MySQL" style="margin-right: 10px;"
          src="https://img.shields.io/badge/MySQL-4479a1?logo=mysql&logoColor=white&style=flat-square">
     <img alt="Git" style="margin-right: 10px;"
