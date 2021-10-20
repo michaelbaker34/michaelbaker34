@@ -2,13 +2,15 @@
     <img alt="" style="margin-right: 10px;"
          src="https://img.shields.io/badge/?logo=&logoColor=white&style=flat-square">
 
--->
-
 <p>
 - I’m currently working on <a href="https://github.com/michaelbaker34/JokesWebApp">Jokes Web Application</a>
 <br>
-- I’m currently learning C# & .Net Core
+- I’m currently learning Data Structures & Algorithms
 </p>
+
+-->
+
+
 
 ---
 
